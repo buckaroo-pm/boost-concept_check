@@ -1,0 +1,25 @@
+targets = ["//:concept_check"]
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-config"
+version = "1.34.1"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-mpl"
+version = "1.34.1"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-preprocessor"
+version = "1.34.1"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-utility"
+version = "1.34.1"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-type_traits"
+version = "1.34.1"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-detail"
+version = "1.34.1"
